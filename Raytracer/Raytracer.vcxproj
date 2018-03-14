@@ -21,6 +21,9 @@
   <ItemGroup>
     <ClCompile Include="Raytracer.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Geometry\Sphere.hpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{2A2EA8D7-33E4-48D5-A309-896006BBBB09}</ProjectGuid>
